@@ -20,7 +20,7 @@ ________   .________ __________________  .___ ___________________________
 
 
 > Azure Pipelines badge here
-A Devivery Pipeline needs to be added.
+GET https://dev.azure.com/snack-hack/thegame/_apis/build/repos/public/badge?api-version=5.1-preview.2
 
 > Sandeep, William 
 
