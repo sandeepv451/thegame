@@ -20,7 +20,7 @@ ________   .________ __________________  .___ ___________________________
 
 
 > Azure Pipelines badge here
-GET https://dev.azure.com/snack-hack/thegame/_apis/build/repos/public/badge?api-version=5.1-preview.2
+GET https://dev.azure.com/sundeep451/sun_deep451/_build?definitionId=2
 
 > Sandeep, William 
 
