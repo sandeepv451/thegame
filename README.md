@@ -1,5 +1,6 @@
 
 > Game Name To be Decided 
+> Game Description Here
 
 > Azure Pipelines badge here
 A Devivery Pipeline needs to be added.
@@ -9,9 +10,8 @@ A Devivery Pipeline needs to be added.
 
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
-| ![alt](photo link) | Mona The Octocat | GitHub's Logo |
-|                    |                  |               |
-|                    |                  |               |
+|                    | William Eng      | Participant   |
+|                    | Sandeep Valapalli| Team Leader   |
 
 ----
 
