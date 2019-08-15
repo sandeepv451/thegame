@@ -2,6 +2,7 @@
 > Game Name To be Decided 
 
 > Azure Pipelines badge here
+A Devivery Pipeline needs to be added.
 
 > Sandeep, William 
 
