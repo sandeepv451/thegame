@@ -8,12 +8,10 @@ No. This is that game. This game is better, newer, faster.
 In :snake:Worms Evolution: Fertilize or Be Fertilized:snake:, you play as a lowly snake trying to work your way up from poverty. Ever year, the Hungry Games where the best of the best worms are send into a battle arena to prove who can fertilize the most :leaf:organic:leaf:. 
 
 Dodge, duck, dip, dive, and dodge your way around other hungry worms trying to catch you off guard and steal your hard work! The red potatoes are worm 1 point, the green potatoes are worth 5 points, and the legendary golden potatoes are worth...
-________   .________ __________________  .___ ___________________________
-\_____  \  |   ____/ \______   \_____  \ |   |\      \__    ___/   _____/
- /  ____/  |____  \   |     ___//   |   \|   |/   |   \|    |  \_____  \ 
-/       \  /       \  |    |   /    |    \   /    |    \    |  /        \
-\_______ \/______  /  |____|   \_______  /___\____|__  /____| /_______  /
-        \/       \/                    \/            \/               \/ 
+
+# 25 POINTS
+                    
+Good luck, because in this world, it's fertilize or be fertilized....
                                                                          
                     
 
