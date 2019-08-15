@@ -19,7 +19,7 @@ ________   .________ __________________  .___ ___________________________
 
 
 
-> Azure Pipelines badge here
+> Azure Deployment Pipelines
 GET https://dev.azure.com/sundeep451/sun_deep451/_apis/build/status/snake-hack.thegame?branchName=master
 [![Build Status](https://dev.azure.com/sundeep451/sun_deep451/_apis/build/status/snake-hack.thegame?branchName=master)](https://dev.azure.com/sundeep451/sun_deep451/_build/latest?definitionId=2&branchName=master)
 
