@@ -20,7 +20,7 @@ ________   .________ __________________  .___ ___________________________
 
 
 > Azure Pipelines badge here
-GET https://dev.azure.com/sundeep451/sun_deep451/_build?definitionId=2
+GET https://dev.azure.com/sundeep451/sun_deep451/_apis/build/status/snake-hack.thegame?branchName=master
 
 > Sandeep, William 
 
